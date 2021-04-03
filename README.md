@@ -36,7 +36,10 @@
 
 ## 設計書
 
-<...>
+- UI フレーム https://drive.google.com/file/d/1tfjpfL1Qi1R9tOAinYLD2tKoxF7qXnmf/view?usp=sharing
+- フレームワーク　https://drive.google.com/file/d/17cdCRNkgZ4e6tyNWniTKKUx_FwBZfnUC/view?usp=sharing
+- テーブル定義書
+- アプリケーションデザイン
 
 ## チャレンジ要素一覧
 
