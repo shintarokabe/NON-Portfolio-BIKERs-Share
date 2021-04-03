@@ -31,15 +31,14 @@
   - 都道府県別にレビューランキングを表示
 - ツーリング仲間探し
   - ユーザー同士でＦＦ機能やコメント機能を用いて交流する
-- 自分のバイクの情報を共有する
-  - 愛車を自慢できる！
 
 ## 設計書
 
 - UI フレーム https://drive.google.com/file/d/1tfjpfL1Qi1R9tOAinYLD2tKoxF7qXnmf/view?usp=sharing
-- フレームワーク　https://drive.google.com/file/d/17cdCRNkgZ4e6tyNWniTKKUx_FwBZfnUC/view?usp=sharing
-- テーブル定義書
-- アプリケーションデザイン
+- フレームワーク　 https://drive.google.com/file/d/17cdCRNkgZ4e6tyNWniTKKUx_FwBZfnUC/view?usp=sharing
+- ER 図 https://drive.google.com/file/d/1V_npmVXDojLnRxnmSPzXs2ZP6075G4a0/view?usp=sharing
+- テーブル定義書 https://docs.google.com/spreadsheets/d/Aj5xGxU0X5FoLeWb9ZcVb6OQtiBlEaVPM91PF-K0IKE/edit?usp=sharing
+- アプリケーションデザイン https://docs.google.com/spreadsheets/d/1iYIs1wHlw6q8UFRpDut1hacwRvnPnuo40uzPyrbeFI0/edit?usp=sharing
 
 ## チャレンジ要素一覧
 
@@ -52,8 +51,3 @@ https://docs.google.com/spreadsheets/d/1Q_igaqMgFl5e5EkOC7W5EmTv1ZAV249hocDsTYxw
 - フレームワーク：Ruby on Rails
 - JS ライブラリ：jQuery
 - IDE：Cloud9
-
-## 使用素材
-
-- 外部サービスの画像素材・音声素材を使用した場合は、必ずサービス名と URL を明記してください。
-- 使用しない場合は、使用素材の項目を README から削除してください。
