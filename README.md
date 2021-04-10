@@ -40,7 +40,7 @@
 - テーブル定義書 https://docs.google.com/spreadsheets/d/Aj5xGxU0X5FoLeWb9ZcVb6OQtiBlEaVPM91PF-K0IKE/edit?usp=sharing
 - アプリケーションデザイン https://docs.google.com/spreadsheets/d/1iYIs1wHlw6q8UFRpDut1hacwRvnPnuo40uzPyrbeFI0/edit?usp=sharing
 
-## チャレンジ要素一覧
+## 機能一覧
 
 https://docs.google.com/spreadsheets/d/1Q_igaqMgFl5e5EkOC7W5EmTv1ZAV249hocDsTYxwCa0/edit?usp=sharing
 
